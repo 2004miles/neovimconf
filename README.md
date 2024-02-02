@@ -1,2 +1,2 @@
 # neovimconf
-# First neovim conf
+First neovim conf
