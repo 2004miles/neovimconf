@@ -32,6 +32,7 @@ use {
 use('theprimeagen/harpoon')
 use('mbbill/undotree')
 use('tpope/vim-fugitive')
+use('mfussenegger/nvim-jdtls')
 
 --LSP
 use {
@@ -56,9 +57,6 @@ use {
 		{'rafamadriz/friendly-snippets'},
 	}
 }
-
-
-
 
 
 end)
